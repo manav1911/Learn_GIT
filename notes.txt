@@ -1,0 +1,12 @@
+pwd command is used to print the path of the current working directory.
+
+touch command is to create files in the current directory.
+mkdir creates a directory
+rmdir removes a directory
+
+git init initializes 
+ls -a shows all the folders, including the hidden one
+
+To save a state use the following commands:
+1. git add index.html
+2. commit is a snapshot in git
