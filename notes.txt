@@ -8,5 +8,5 @@ git init initializes
 ls -a shows all the folders, including the hidden one
 
 To save a state use the following commands:
-1. git add index.html
+1. git add index.html (or use " .")
 2. commit is a snapshot in git
